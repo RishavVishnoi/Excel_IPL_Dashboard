@@ -1,6 +1,4 @@
-# Excel_IPL_Dashboard
-
-# IPL Seasons Analysis Dashboard
+# Excel_IPL Seasons Analysis Dashboard
 
 ## Overview
 
@@ -23,7 +21,7 @@ The dashboard highlights trends like:
 
 ## Screenshots
 
-![IPL Dashboard Overview](ipl_dashboard.png)
+![IPL Dashboard Overview](IPL_Dashboard.png)
 *(Full dashboard view showing seasons, match wins, title winners, venues, and MOM awards.)*
 
 
