@@ -22,6 +22,7 @@ The dashboard highlights trends like:
 ## Screenshots
 
 ![IPL Dashboard Overview](IPL_Dashboard.png)
+
 *(Full dashboard view showing seasons, match wins, title winners, venues, and MOM awards.)*
 
 
